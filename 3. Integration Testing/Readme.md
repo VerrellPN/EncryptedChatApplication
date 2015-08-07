@@ -1,0 +1,1 @@
+	Our Encrypted Chat Application does not need database. Since the purpose of creating that application was due to Keamanan Komputasi course curriculum, it is not that good. In the future, if we plan to improve our application, we might try the database system if and only if there are too many users.
